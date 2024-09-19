@@ -4,3 +4,8 @@
 ## Education
 [Elon University](https://www.elon.edu/)<br> 
 [Columbia Univeristy](https://www.columbia.edu/)
+
+## Research Interests
+- Biogeochemistry
+- Microbiology
+- 'Omics
